@@ -16,13 +16,14 @@ The linux version is still under progress but is ready to use and follows almost
 ![Valorant ESP+Aimbot](https://github.com/qb-0/pympgh/blob/master/examples/linux/sauerbraten_espaim.py)
 
 ## [CSGO ESP](https://github.com/qb-0/pympgh/blob/master/examples/csgo_esp.py):
-<img src="https://github.com/qb-0/pympgh/blob/master/examples/screenshots/csgo_py.png" alt="alt text" width="650" height="450">
+<img src="https://raw.githubusercontent.com/Kava4/PyMPGH/master/examples/screenshots/csgo_py.png" alt="alt text" width="650" height="450">
+<img src="https://raw.githubusercontent.com/Kava4/PyMPGH/master/examples/screenshots/ac2_py.png" alt="alt text" width="650" height="450">
 
 ## [VALORANT ESP](https://github.com/qb-0/pympgh/blob/master/examples/valo_esp.py)
-<img src="https://github.com/qb-0/pympgh/blob/master/examples/screenshots/swbf_py.webp" alt="alt text" width="650" height="450">
+<img src="https://github.com/Kava4/PyMPGH/blob/master/examples/screenshots/swbf_py.webp" alt="alt text" width="650" height="450">
 
 
-## [Healthbar](https://github.com/qb-0/pympgh/blob/master/examples/healthbar.py)
-![](https://github.com/qb-0/pympgh/blob/master/examples/screenshots/healthbar.png)
+## [Healthbar](https://raw.githubusercontent.com/Kava4/PyMPGH/master/examples/screenshots/healthbar.png)
+![](https://raw.githubusercontent.com/Kava4/PyMPGH/master/examples/screenshots/healthbar.png)
 
 
