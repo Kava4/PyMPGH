@@ -5,15 +5,14 @@ Combines many different libraries into one.
 
 ##### <ins>Installation / Usage</ins>
 - Make sure you use a **64bit** version of Python 3
-- Download the latest pympgh Module from the ![Release Section](https://github.com/qb-0/pympgh/releases) (not yet)
+- Download the latest pympgh Module from the (not yet)
 - Extract the files and use pip to install pympgh: `pip install .`
 
 ##### <ins>Finally going public after requests</ins>
 
 ##### <ins>Linux</ins>
 The linux version is still under progress but is ready to use and follows almost the windows api.
-![CSGO ESP](https://github.com/qb-0/pympgh/blob/master/examples/linux/csgo_esp.py)
-![Valorant ESP+Aimbot](https://github.com/qb-0/pympgh/blob/master/examples/linux/sauerbraten_espaim.py)
+
 
 ## [CSGO ESP](https://github.com/qb-0/pympgh/blob/master/examples/csgo_esp.py):
 <img src="https://raw.githubusercontent.com/Kava4/PyMPGH/master/examples/screenshots/csgo_py.png" alt="alt text" width="650" height="450">
